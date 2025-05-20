@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hi there 👋
-🌻I'm learning<br>
+🌻I'm constantly learning new things!<br>
 ⚡fun fact : i'm a self-taught developer
 
 
