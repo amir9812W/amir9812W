@@ -1,6 +1,21 @@
 # 💫 About Me:
-🌻I'm constantly learning new things!<br>
-⚡fun fact : i'm a self-taught developer
+🌻 Self-taught Frontend Developer with 1+ year of hands-on experience in HTML, CSS, JavaScript, and React.
+
+🧑‍💻 Python enthusiast exploring backend development and scripting to grow into Full-Stack Engineering.
+
+⚡ Problem-solver at heart – love debugging, optimizing code, and building responsive web applications.
+
+🅱️ 3D animation hobbyist – Blender artist passionate about creating visual storytelling through tech.
+
+🔥 Lifelong learner – completed courses from Udemy and SuperSimple.dev to master modern web dev.
+
+🤵 Open to internships – seeking opportunities to contribute to real-world projects and teams.
+
+💪 Multilingual – fluent in English (C1), Persian/Dari (native), and conversational German (B1).
+
+🙏 Portfolio builder – check out my projects at amirportfolioinfo.netify.app
+
+🎯 Future goal: Master Full-Stack Development (React + Node.js/Python) and collaborate on open-source.
 
 
 # 💻 Tech Stack:
